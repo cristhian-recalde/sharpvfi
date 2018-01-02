@@ -1,0 +1,5 @@
+/Volumes/Data/workspace-spring/antipatterns/code-analyze/sharpvfi/sharpvfi/obj/x86/Debug/sharpvfi.csproj.CoreCompileInputs.cache
+/Volumes/Data/workspace-spring/antipatterns/code-analyze/sharpvfi/sharpvfi/bin/Debug/sharpvfi.exe
+/Volumes/Data/workspace-spring/antipatterns/code-analyze/sharpvfi/sharpvfi/bin/Debug/sharpvfi.pdb
+/Volumes/Data/workspace-spring/antipatterns/code-analyze/sharpvfi/sharpvfi/obj/x86/Debug/sharpvfi.exe
+/Volumes/Data/workspace-spring/antipatterns/code-analyze/sharpvfi/sharpvfi/obj/x86/Debug/sharpvfi.pdb
